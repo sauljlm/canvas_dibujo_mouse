@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,CAAC;EACC,OAAO,EAAE,CAAC;EACV,MAAM,EAAE,CAAC",
+"sources": ["../sass/partials/_general.scss"],
+"names": [],
+"file": "stilos.css"
+}
